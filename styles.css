@@ -1,0 +1,9 @@
+.soldTvNumber {
+    color: green;
+}
+.purchasedTvNumber{
+    color: blue;
+}
+.remainSold{
+    color: red;
+}
