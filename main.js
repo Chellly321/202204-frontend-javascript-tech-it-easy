@@ -1,3 +1,4 @@
+
 // VOORRAAD ARRAY MET TV'S
 const inventory = [
   {
